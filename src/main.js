@@ -9,7 +9,4 @@ function create() {
   logo.anchor.setTo(0.5, 0.5);
 };
 
-function update() {
-  // ¯ \_(ツ)_/¯
-  // "surprise me"
-}
+/* function update() {} */
