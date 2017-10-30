@@ -9,4 +9,6 @@ function create() {
   logo.anchor.setTo(0.5, 0.5);
 };
 
-/* function update() {} */
+function update() {
+  // Da completare
+}
